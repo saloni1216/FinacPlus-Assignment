@@ -8,7 +8,8 @@ This project automates a complete UI test flow for the DemoQA Book Store Applica
 The automation covers login validation, book search, result verification, data extraction, and logout functionality.
 
 🔗 Application URL: https://demoqa.com/
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🧪 Test Scenario Covered
 
 The following steps are automated as part of this assignment:
